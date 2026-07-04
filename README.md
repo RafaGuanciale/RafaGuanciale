@@ -24,7 +24,7 @@ Perfume analysis and discovery platform. Evaluates a user's collection and recom
 - **Highlights:** full JWT authentication, third-party API integration (WeatherAPI) via custom hook, multi-context architecture, CRUD with ownership control
 - 🔗 [Live platform](https://permana-frontend.vercel.app/) · [Frontend repo](https://github.com/RafaGuanciale/Permana-frontend) · [Backend repo](https://github.com/RafaGuanciale/permana-backend)
 
-### 📸 Around the U.S. — *bootcamp fullstack project*
+### 📸 Around the U.S. — *fullstack project*
 Photo-sharing social app with its own Node.js/Express API and a React frontend. Includes a documented security analysis in the repository.
 
 - **Stack:** React · Node.js · Express · MongoDB · JWT · bcrypt · celebrate/Joi · Winston
