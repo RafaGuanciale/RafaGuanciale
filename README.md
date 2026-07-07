@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Rafael Guanciale Nacarato
 
-**Fullstack Developer (Junior) · React & Node.js**
+**Fullstack Developer · React & Node.js**
 📍 São Paulo, Brazil
 
 ---
@@ -9,7 +9,7 @@
 
 I build fullstack web applications end-to-end, from the design system to production deploy. My focus is on writing structured, maintainable code and understanding how an application works as a whole: UI behavior, state management, data flow, API design and security.
 
-I'm currently finishing a Web Development bootcamp at **TripleTen**, and in parallel I'm building **Permana**, a real product of my own, from concept to deployment.
+I completed a Web Development bootcamp at **TripleTen**, and in parallel I'm building **Permana**, a real product of my own, from concept to deployment.
 
 Before moving into development, I worked in corporate roles at Disney and Tetra Pak, which shaped how I approach problems: structured reasoning, ownership and attention to detail.
 
@@ -68,7 +68,6 @@ Photo-sharing social app with its own Node.js/Express API and a React frontend. 
 - Building the MVP of Permana toward a public launch
 - Writing automated tests with Jest (unit and integration)
 - Deepening my React and Node.js knowledge through real-world work
-- Open to junior fullstack / frontend opportunities
 
 ---
 
