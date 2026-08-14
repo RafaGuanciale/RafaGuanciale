@@ -25,6 +25,14 @@ Plataforma de análise e descoberta de perfumes. Avalia a coleção do usuário 
 - **Destaques:** autenticação completa com JWT, integração com API de terceiro (WeatherAPI) via hook customizado, arquitetura de múltiplos contextos, CRUD com controle de propriedade
 - 🔗 [Acessar plataforma](https://permana.com.br)
 
+### 📝 Permana Blog — *aplicação fullstack em TypeScript*
+
+Blog desenvolvido de ponta a ponta em TypeScript, com frontend em React e API própria em Node.js/Express. Persistência em PostgreSQL, sem ORM.
+
+- **Stack:** React · Vite · TypeScript · Node.js · Express · PostgreSQL · Vitest
+- **Destaques:** tipagem de ponta a ponta com Context API tipada e union types, backend em arquitetura em camadas, queries SQL parametrizadas (proteção contra SQL injection) e PostgreSQL (Neon) com migrations versionadas
+- 🔗 [Acessar blog](https://permana-blog-front.vercel.app/) · [Repositório front](https://github.com/RafaGuanciale/Permana-Blog---front) · [Repositório back](https://github.com/RafaGuanciale/Permana-Blog---Back)
+
 ### 📸 Around the U.S. — *projeto fullstack*
 
 Rede social de compartilhamento de fotos, com API própria em Node.js/Express e frontend em React. Inclui uma análise de segurança documentada no repositório.
