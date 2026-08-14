@@ -1,60 +1,64 @@
-## 👋 Hi there, I'm Rafael Guanciale Nacarato
+## 👋 Olá, eu sou o Rafael Guanciale Nacarato
 
-**Fullstack Developer · React & Node.js**
-📍 São Paulo, Brazil
-
----
-
-## 🧠 About Me
-
-I build fullstack web applications end-to-end, from the design system to production deploy. My focus is on writing structured, maintainable code and understanding how an application works as a whole: UI behavior, state management, data flow, API design and security.
-
-I completed a Web Development bootcamp at **TripleTen**, and in parallel I'm building **Permana**, a real product of my own, from concept to deployment.
-
-Before moving into development, I worked in corporate roles at Disney and Tetra Pak, which shaped how I approach problems: structured reasoning, ownership and attention to detail.
+**Desenvolvedor Fullstack · React & Node.js**
+📍 São Paulo, Brasil
 
 ---
 
-## 🚀 Featured Projects
+## 🧠 Sobre mim
 
-### 🌿 Permana — *personal product in development*
-Perfume analysis and discovery platform. Evaluates a user's collection and recommends fragrances. Built solo, full-stack, from design to deploy.
+Construo aplicações web fullstack de ponta a ponta, do design system ao deploy em produção. Meu foco é escrever código estruturado e sustentável, e entender como a aplicação funciona como um todo: comportamento da UI, gerenciamento de estado, fluxo de dados, design de API e segurança.
+
+Concluí o bootcamp de Desenvolvimento Web da **TripleTen** e, em paralelo, venho construindo o **Permana**, um produto próprio, do conceito ao deploy.
+
+Antes de migrar para o desenvolvimento, atuei em áreas corporativas na Disney e na Tetra Pak, o que moldou a forma como abordo problemas: raciocínio estruturado, senso de dono e atenção aos detalhes.
+
+---
+
+## 🚀 Projetos em destaque
+
+### 🌿 Permana — *produto autoral em desenvolvimento*
+
+Plataforma de análise e descoberta de perfumes. Avalia a coleção do usuário e recomenda fragrâncias. Desenvolvido sozinho, fullstack, do design ao deploy.
 
 - **Stack:** React · React Router · Context API · Vite · Node.js · Express · MongoDB · Mongoose · JWT · bcrypt
-- **Highlights:** full JWT authentication, third-party API integration (WeatherAPI) via custom hook, multi-context architecture, CRUD with ownership control
-- 🔗 [Live platform](https://permana-frontend.vercel.app/) · [Frontend repo](https://github.com/RafaGuanciale/Permana-frontend) · [Backend repo](https://github.com/RafaGuanciale/permana-backend)
+- **Destaques:** autenticação completa com JWT, integração com API de terceiro (WeatherAPI) via hook customizado, arquitetura de múltiplos contextos, CRUD com controle de propriedade
+- 🔗 [Acessar plataforma](https://permana.com.br)
 
-### 📸 Around the U.S. — *fullstack project*
-Photo-sharing social app with its own Node.js/Express API and a React frontend. Includes a documented security analysis in the repository.
+### 📸 Around the U.S. — *projeto fullstack*
+
+Rede social de compartilhamento de fotos, com API própria em Node.js/Express e frontend em React. Inclui uma análise de segurança documentada no repositório.
 
 - **Stack:** React · Node.js · Express · MongoDB · JWT · bcrypt · celebrate/Joi · Winston
-- **Highlights:** registration/login with route protection, two-layer validation, structured logging, ownership control
-- 🔗 [Live app](https://web-project-api-full-eight.vercel.app/) · [API](https://web-project-api-full-7drj.onrender.com) · [Code](https://github.com/RafaGuanciale/Project-Around-U.S.)
+- **Destaques:** registro/login com proteção de rotas, validação em duas camadas, logging estruturado, controle de propriedade
+- 🔗 [Acessar aplicação](https://web-project-api-full-eight.vercel.app/) · [API](https://web-project-api-full-7drj.onrender.com) · [Código](https://github.com/RafaGuanciale/Project-Around-U.S.)
 
-> ⏱️ The API is hosted on Render's free tier, so the first request may take a few seconds to wake the server.
+> ⏱️ A API está hospedada no plano gratuito do Render, então a primeira requisição pode levar alguns segundos para acordar o servidor.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tecnologias
 
 **Frontend**
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" title="TypeScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="40" title="Vite"/>
 </p>
 
-**Backend & Database**
+**Backend & Banco de Dados**
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" title="Express"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40" title="Jest"/>
 </p>
 
-**Tools & Deploy**
+**Ferramentas & Deploy**
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub"/>
@@ -63,19 +67,19 @@ Photo-sharing social app with its own Node.js/Express API and a React frontend. 
 
 ---
 
-## 🎯 Currently
+## 🎯 No momento
 
-- Building the MVP of Permana toward a public launch
-- Writing automated tests with Jest (unit and integration)
-- Deepening my React and Node.js knowledge through real-world work
+- Construindo o MVP do Permana rumo ao lançamento público
+- Escrevendo testes automatizados com Jest (unitários e de integração)
+- Aprofundando meus conhecimentos em React e Node.js através de trabalho prático
 
 ---
 
-## 🔗 Let's Connect
+## 🔗 Vamos nos conectar
 
 **LinkedIn:** https://www.linkedin.com/in/rafaelguanciale/
 **Email:** rafaelguanciale@hotmail.com
 
 ---
 
-⭐ Feel free to explore my repositories and follow my journey.
+⭐ Fique à vontade para explorar meus repositórios e acompanhar minha jornada.
